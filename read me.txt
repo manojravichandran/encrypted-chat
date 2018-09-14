@@ -1,0 +1,5 @@
+An Encrypted socket chat . . .
+
+Change ip accorind to your connection . . .
+
+Small encryption applied here . . . 
